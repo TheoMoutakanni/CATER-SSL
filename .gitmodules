@@ -1,0 +1,3 @@
+[submodule "external_lib/average-precision"]
+	path = external_lib/average-precision
+	url = git@github.com:achalddave/average-precision.git
