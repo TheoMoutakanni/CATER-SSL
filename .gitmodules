@@ -1,3 +1,6 @@
 [submodule "external_lib/average-precision"]
 	path = external_lib/average-precision
 	url = git@github.com:achalddave/average-precision.git
+[submodule "video-clip-order-prediction"]
+	path = video-clip-order-prediction
+	url = git@github.com:Nathra21/video-clip-order-prediction.git
