@@ -4,3 +4,9 @@
 [submodule "video-clip-order-prediction"]
 	path = video-clip-order-prediction
 	url = git@github.com:Nathra21/video-clip-order-prediction.git
+[submodule "MemDPC"]
+	path = MemDPC
+	url = https://github.com/TheoMoutakanni/MemDPC
+[submodule "TimeCycle"]
+	path = TimeCycle
+	url = https://github.com/TheoMoutakanni/TimeCycle
